@@ -20,4 +20,9 @@ What should the final prototype do and what should it be like?
 
 Timeline & other stuff:
 
-???
+Steps:
+1. Initial product research done for friday the 5th of June
+
+2. Research potential solutions to inadequacies found in current products (found by the 5th of June)
+
+3. Quickly make decisions about what is viable/good

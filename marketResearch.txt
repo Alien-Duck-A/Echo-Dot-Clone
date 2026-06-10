@@ -1,0 +1,57 @@
+    
+Introduction 
+    The objective of this project is to create a device that can listen and interpret user’s 
+speach to execute preprogrammed scripts while maintaining transparency in data usage and 
+maximising secutity. In the following report, we will evaluate similar products and our 
+criteria for evaluating our prototype. 
+
+1. Analysis of needs 
+
+    The following list presents some weaknesses of current smart speakers. The weaknesses 
+should guide our team in how we decide to develop our prototype. 
+
+    - All requests get sent to a server (not private) 
+
+    - Network dependent (only works if you have internet) 
+
+    - Locked into an ecosystem 
+
+    - Services that may be beloved are removed while others that are unappreciated are 
+    pushed 
+
+    - Devices rely on matching words rather than intent (not a real conversation) 
+
+    - Bad contextual awareness 
+
+2. Objectives 
+
+	    The primary objective of this project is to develop a smart speaker that can operate 
+    using a local ai to perform web searches and execute preprogrammed scripts. 
+
+	- For it to perform to our standards, we need it to: 
+
+    - Recognize user’s speech and interact in a conversational manner (less need for precise wording) 
+
+    - Be able to run an AI model to recognize words and interpret to execute commands locally 
+
+    - Deliver quick and reasonable responses  
+
+    - Be intuitive to use by young and old 
+
+    - Detect the wake command despite noise and from a distance 
+
+3. Restrictions 
+
+This section will explain self-imposed restrictions so that the device and software are 
+reasonably priced and competitive with other devices available on the market. 
+
+    - The the baseline Apple smart speaker and Google smart speaker each cost 100$ while 
+    the Amazon smart speaker costs 50$. Considering these prices, our product should 
+    definitely not cost more than 100$ and we should prefer cheaper options. 
+
+    - The device should be able to operate offline 
+
+    - It should be able to connect to other devices using the local wifi network, while 
+    not using the internet. 
+
+  
