@@ -1,0 +1,10 @@
+Timer system
+Power supply
+speaker/mic 
+Chip
+RGB
+Pluggin system/plugin manager
+UI 
+Pluggin repo
+Case
+

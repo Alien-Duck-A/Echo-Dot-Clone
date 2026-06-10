@@ -26,3 +26,8 @@ Steps:
 2. Research potential solutions to inadequacies found in current products (found by the 5th of June)
 
 3. Quickly make decisions about what is viable/good
+
+
+Decisions:
+
+We will use a design a plugin system that will allow connected devices to dictate the communication protocol
