@@ -1,10 +1,11 @@
-Timer system
-Power supply
-speaker/mic 
-Chip
-RGB
-Pluggin system/plugin manager
-UI 
-Pluggin repo
-Case
+Timer system - Etienne
+Power supply - David
+speaker/mic - David
+Chip - Edouard
+RGB - Garlan
+Pluggin system/plugin manager - Shelved for later
+UI - Ludwig
+Pluggin repo - Shelved 
+Case - Edouard
 
+Finish step 2 by July 10 2026
